@@ -30,7 +30,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unit 3",
                 "Unit 1",
                 "Unit 2",
                 ""

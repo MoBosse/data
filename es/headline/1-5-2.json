@@ -1,1 +1,1 @@
-[{"Year":2015,"Value":2000.333,"Units":"Unit 1"},{"Year":2016,"Value":2000.333,"Units":"Unit 1"},{"Year":2015,"Value":20000.333,"Units":"Unit 2"},{"Year":2016,"Value":20000.333,"Units":"Unit 2"}]
+[{"Year":2015,"Value":2000.333,"Units":"Unit 1","GeoCode":null},{"Year":2016,"Value":2000.333,"Units":"Unit 1","GeoCode":null},{"Year":2015,"Value":20000.333,"Units":"Unit 2","GeoCode":null},{"Year":2016,"Value":20000.333,"Units":"Unit 2","GeoCode":null}]

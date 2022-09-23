@@ -40,6 +40,37 @@
             "title": "Units"
           },
           {
+            "name": "federal state",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "baden-wuerttemberg",
+                "bavaria",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
+                "berlin",
+                ""
+              ]
+            },
+            "title": "federal state"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

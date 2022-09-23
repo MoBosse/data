@@ -1,13 +1,45 @@
-Year,Group,Units,Value
-2015,A,Unit 1,3000.333
-2015,B,Unit 1,3000.333
-2015,,Unit 1,2000.333
-2016,A,Unit 1,1000.333
-2016,B,Unit 1,3000.333
-2016,,Unit 1,2000.333
-2015,A,Unit 2,10000.333
-2015,B,Unit 2,30000.333
-2015,,Unit 2,20000.333
-2016,A,Unit 2,10000.333
-2016,B,Unit 2,30000.333
-2016,,Unit 2,20000.333
+Year,Group,Units,federal state,GeoCode,Value
+2015,A,Unit 1,,,3000.333
+2015,B,Unit 1,,,3000.333
+2015,,Unit 1,,,2000.333
+2016,A,Unit 1,,,1000.333
+2016,B,Unit 1,,,3000.333
+2016,,Unit 1,,,2000.333
+2015,A,Unit 2,,,10000.333
+2015,B,Unit 2,,,30000.333
+2015,,Unit 2,,,20000.333
+2016,A,Unit 2,,,10000.333
+2016,B,Unit 2,,,30000.333
+2016,,Unit 2,,,20000.333
+2015,A,Unit 1,baden-wuerttemberg,code08,1000.333
+2015,A,Unit 1,bavaria,code09,2000.333
+2015,A,Unit 1,brandenburg,code12,3000.333
+2015,A,Unit 1,bremen,code04,4000.333
+2015,A,Unit 1,hamburg,code02,5000.333
+2015,A,Unit 1,hesse,code06,6000.333
+2015,A,Unit 1,mecklenburg western pomerania,code13,7000.333
+2015,A,Unit 1,lower saxony,code03,8000.333
+2015,A,Unit 1,north rhine-westphalia,code05,9000.333
+2015,A,Unit 1,rhineland palatinate,code07,10000.333
+2015,A,Unit 1,saarland,code10,11000.333
+2015,A,Unit 1,saxony,code14,12000.333
+2015,A,Unit 1,saxony-anhalt,code15,13000.333
+2015,A,Unit 1,schleswig-holstein,code01,14000.333
+2015,A,Unit 1,thuringia,code16,15000.333
+2015,A,Unit 1,berlin,code11,16000.333
+2015,B,Unit 1,baden-wuerttemberg,code08,1000.333
+2015,B,Unit 1,bavaria,code09,2000.333
+2015,B,Unit 1,brandenburg,code12,3000.333
+2015,B,Unit 1,bremen,code04,4000.333
+2015,B,Unit 1,hamburg,code02,5000.333
+2015,B,Unit 1,hesse,code06,6000.333
+2015,B,Unit 1,mecklenburg western pomerania,code13,7000.333
+2015,B,Unit 1,lower saxony,code03,8000.333
+2015,A,Unit 1,north rhine-westphalia,code05,9000.333
+2015,B,Unit 1,rhineland palatinate,code07,10000.333
+2015,B,Unit 1,saarland,code10,11000.333
+2015,B,Unit 1,saxony,code14,12000.333
+2015,B,Unit 1,saxony-anhalt,code15,13000.333
+2015,B,Unit 1,schleswig-holstein,code01,14000.333
+2015,B,Unit 1,thuringia,code16,15000.333
+2015,B,Unit 1,berlin,code11,16000.333

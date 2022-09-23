@@ -1,8 +1,8 @@
 reporting_status: complete
 precision:
-  - unit: unit 1
+  - unit: Unit 1
     decimals: 1
-  - unit: unit 2
+  - unit: Unit 2
     decimals: 2
 SDG_GOAL: >-
   Goal 1: End poverty in all its forms everywhere

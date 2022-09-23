@@ -4,6 +4,7 @@ precision:
     decimals: 1
   - unit: Unit 2
     decimals: 2
+data_show_map: true  
 SDG_GOAL: >-
   Goal 1: End poverty in all its forms everywhere
 SDG_TARGET: >-

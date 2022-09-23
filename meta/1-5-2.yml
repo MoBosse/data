@@ -4,6 +4,14 @@ precision:
     decimals: 1
   - unit: Unit 2
     decimals: 2
+    
+graph_annotations:
+  - value: 15678
+    label:
+      content: Ziel 2030
+      position: left
+    preset: target_line 
+    
 data_show_map: true  
 SDG_GOAL: >-
   Goal 1: End poverty in all its forms everywhere

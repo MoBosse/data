@@ -1,8 +1,8 @@
 Year,Units,Aufagbenbereich,Gerichtsebene,Value
 2015,Prozent,Frauenanteil der Bevölkerung im erwerbsfähigen Alter,,,3
 2016,Prozent,Frauenanteil der Bevölkerung im erwerbsfähigen Alter,,,2
-2015,Prozent,Frauenanteil im Deutschen Bundestag,,4
-2016,Prozent,Frauenanteil im Deutschen Bundestag,,3
+2015,Prozent,Frauenanteil im Deutschen Bundestag,,,4
+2016,Prozent,Frauenanteil im Deutschen Bundestag,,,3
 2015,Prozent,Frauenanteil im Bundesrat,,,5
 2016,Prozent,Frauenanteil im Bundesrat,,,4
 2015,Prozent,Frauenanteil im öffentlichen Dienst,,,6
@@ -23,8 +23,8 @@ Year,Units,Aufagbenbereich,Gerichtsebene,Value
 2016,Prozent,Frauenanteil in der Justiz,,Übergeordnete Gerichte,6.2
 2015,Prozent,Frauenanteil in der Justiz,,Untergeordnete Gerichte,7.3
 2016,Prozent,Frauenanteil in der Justiz,,Untergeordnete Gerichte,6.3
-2015,Keine Einheit,Verhältnis von Frauen im Deutschen Bundestag,,4
-2016,Keine Einheit,Verhältnis von Frauen im Deutschen Bundestag,,3
+2015,Keine Einheit,Verhältnis von Frauen im Deutschen Bundestag,,,4
+2016,Keine Einheit,Verhältnis von Frauen im Deutschen Bundestag,,,3
 2015,Keine Einheit,Verhältnis von Frauen im Bundesrat,,,5
 2016,Keine Einheit,Verhältnis von Frauen im Bundesrat,,,4
 2015,Keine Einheit,Verhältnis von Frauen im öffentlichen Dienst,,,6

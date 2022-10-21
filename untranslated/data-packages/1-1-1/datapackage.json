@@ -15,30 +15,62 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Prozent",
+                "Keine Einheit",
                 ""
               ]
             }
           },
           {
-            "name": "Units",
+            "name": "Zeitreihe",
             "type": "string",
             "constraints": {
               "enum": [
-                "Unit 1",
-                "Unit 2",
+                "Frauenanteil der Bevölkerung im erwerbsfähigen Alter",
+                "Frauenanteil im Deutschen Bundestag",
+                "Frauenanteil im Bundesrat",
+                "Frauenanteil im öffentlichen Dienst",
+                "Frauenanteil in der Justiz",
+                "Verhältnis von Frauen im Deutschen Bundestag",
+                "Verhältnis von Frauen im Bundesrat",
+                "Verhältnis von Frauen im öffentlichen Dienst",
+                "Verhältnis von Frauen in der Justiz",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Aufagbenbereich",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",
+                "Polizei",
+                "Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",
+                "Gesundheit, Umwelt, Sport und Erholung",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gerichtsebene",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oberste/Verfassungsgerichte",
+                "Übergeordnete Gerichte",
+                "Untergeordnete Gerichte",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

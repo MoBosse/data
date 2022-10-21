@@ -16,32 +16,66 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Unit 1",
-                "Unit 2",
+                "Prozent",
+                "Keine Einheit",
                 ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Zeitreihe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frauenanteil der Bevölkerung im erwerbsfähigen Alter",
+                "Frauenanteil im Deutschen Bundestag",
+                "Frauenanteil im Bundesrat",
+                "Frauenanteil im öffentlichen Dienst",
+                "Frauenanteil in der Justiz",
+                "Verhältnis von Frauen im Deutschen Bundestag",
+                "Verhältnis von Frauen im Bundesrat",
+                "Verhältnis von Frauen im öffentlichen Dienst",
+                "Verhältnis von Frauen in der Justiz",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Aufagbenbereich",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",
+                "Polizei",
+                "Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",
+                "Gesundheit, Umwelt, Sport und Erholung",
+                ""
+              ]
+            },
+            "title": "Aufagbenbereich"
+          },
+          {
+            "name": "Gerichtsebene",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oberste/Verfassungsgerichte",
+                "Übergeordnete Gerichte",
+                "Untergeordnete Gerichte",
+                ""
+              ]
+            },
+            "title": "Gerichtsebene"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
